@@ -9,4 +9,4 @@
 - ⚡ Интересный факт: Я боюсь указателей в C++.
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mesheni)](https://git.io/streak-stats)
+<center>[![GitHub Streak](https://streak-stats.demolab.com/?user=mesheni)](https://git.io/streak-stats)<center/>
