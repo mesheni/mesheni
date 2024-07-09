@@ -16,3 +16,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mesheni&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mesheni&theme=monokai)
 
+
+Шутка дна:
+![Jokes Card](https://readme-jokes.vercel.app/api)
