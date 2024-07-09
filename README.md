@@ -8,8 +8,6 @@
 - 📫 Как связаться со мной: Email: mesheni@proton.me, [Telegram](https://t.me/meshenii)
 - ⚡ Интересный факт: Я боюсь указателей в C++.
 
-
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mesheni&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mesheni&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mesheni&theme=monokai)
@@ -17,5 +15,12 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mesheni&theme=monokai)
 
 
-Шутка дна:
-![Jokes Card](https://readme-jokes.vercel.app/api)
+# Мои проекты
+Здесь вы найдете несколько проектов, которые могут вас заинтересовать:
+
+VidDownload: приложение для загрузки видео с различных платформ на основе yt-dlp
+
+# Контакты
+Буду рад любым вопросам и предложениям. Вы можете связаться со мной через mesheni@proton.me.
+
+Спасибо за посещение моего профиля! Надеюсь, вы найдете здесь что-то интересное и полезное.
