@@ -81,7 +81,7 @@
 ---
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTZiMzRyN3R4ZHd6Z2J3NjlpZ2swcm5uY254azdzemw3OGVneGp4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="200">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXAxM3QxYWk1ZXpqNWN6ZTN2d2p6Zmt4aWQ4emVrd3E5dXhreHY0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZatUqV7mV5iH9eyAfb/giphy.gif" width="100">
   <br>
   <em><b>Рад новым знакомствам и общению!</b> Если хочешь поздороваться или обсудить что-то, <b>буду рад пообщаться!</b> 😊</em>
   <br><br>
