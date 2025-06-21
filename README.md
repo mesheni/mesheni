@@ -78,18 +78,10 @@
   <br><br>
 </p>
 
-<!-- Закомментированные карточки статистики (если захотите добавить больше) -->
-<!--
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mesheni&show_icons=true&theme=radical&locale=ru" alt="Статистика GitHub mesheni" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mesheni&layout=compact&theme=radical&locale=ru" alt="Наиболее используемые языки mesheni" />
-</p>
--->
-
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTZiMzRyN3R4ZHd6Z2J3NjlpZ2swcm5uY254azdzemw3OGVneGp4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="200">
   <br>
   <em><b>Рад новым знакомствам и общению!</b> Если хочешь поздороваться или обсудить что-то, <b>буду рад пообщаться!</b> 😊</em>
   <br><br>
