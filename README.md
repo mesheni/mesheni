@@ -1,8 +1,8 @@
 <div align="center">
-  <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Всем ривет! Я Иван! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="35"></h2>
+  <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Всем привет! Меня зовут Иван! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="35"></h2>
 </div>
 
-<p><em>Начинающий (и много раз продолжающий) разработчик из России, увлекающийся программированием <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
+<p><em>Я начинающий (и много раз продолжающий) разработчик из России, увлекающийся программированием <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
 <!-- Контактные бейджи -->
 <p>
