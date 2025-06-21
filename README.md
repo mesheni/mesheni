@@ -15,7 +15,7 @@
 <!-- Двухколоночный макет: Обо мне (слева) и Статистика GitHub (справа) -->
 <table>
   <tr>
-    <td valign="top" width="55%"> <!-- Ширина левой колонки -->
+    <td valign="top" width="45%"> <!-- Ширина левой колонки -->
       <h3><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Немного обо мне...</h3>
       <div>
           <p><b>Стек технологий:</b> Python, C#</p>
@@ -36,7 +36,7 @@
           <p><b>Интересный факт:</b> Я боюсь указателей в C++... но готов встретиться с ними лицом к лицу!</p>
       </div>
     </td>
-    <td valign="top" width="45%" align="center"> <!-- Ширина правой колонки -->
+    <td valign="top" width="55%" align="center"> <!-- Ширина правой колонки -->
       <!-- Основная статистика GitHub Metrics -->
       <a href="https://github.com/lowlighter/metrics"> <!-- Опционально: ссылка на репозиторий lowlighter/metrics -->
          <img src="./github-metrics.svg" alt="Мои GitHub Metrics" width="100%"/> <!-- Изображение займет всю ширину ячейки -->
