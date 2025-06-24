@@ -16,13 +16,8 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          plugin_languages: yes
-          plugin_languages_sections: recently-used
-          plugin_languages_recent_load: 400
-          plugin_languages_recent_days: 14
+          filename: metrics.base.svg
           token: ${{ secrets.METRICS_TOKEN }} # Использует созданный вами секрет
-          filename: metrics.plugin.traffic.svg, github-metrics.svg
-          base: repositories
-          plugin_traffic: yes
+          base: header, activity, community, repositories, metadata
 
   
