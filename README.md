@@ -18,22 +18,15 @@
     <td valign="top" width="45%"> <!-- Ширина левой колонки -->
       <h3><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Немного обо мне...</h3>
       <div>
-          <p><b>Стек технологий:</b> Python, C#</p>
-          <p><b>Сейчас изучаю:</b> C#</p>
+          <p><b>Стек технологий:</b> C#</p>
           <p><b>Текущий проект:</b> <a href="https://github.com/mesheni/VidDownload" target="_blank" rel="noopener noreferrer">VidDownload</a></p>
           <p><b>Telegram-бот:</b> <a href="https://t.me/mesh_weather_ai_bot" target="_blank" rel="noopener noreferrer">mesh_weather_ai_bot</a></p>
           <p><b>Учусь:</b> разработке на C#</p>
-          <p style="margin-bottom: 0.2em;"><b>Цели:</b></p>
-          <ul style="margin-top: 0; margin-bottom: 0.8em; padding-left: 25px; list-style-type: '🎯 '; ">
-              <li>Начать систематически программировать</li>
-              <li>Развиваться как разработчик</li>
-          </ul>
           <p style="margin-bottom: 0.2em;"><b>Контакты:</b></p>
           <ul style="margin-top: 0; margin-bottom: 0.8em; padding-left: 25px; list-style-type: '📫 '; ">
               <li><b>Email:</b> <a href="mailto:mesheni@proton.me">mesheni@proton.me</a></li>
               <li><b>Telegram:</b> <a href="https://t.me/meshenii" target="_blank" rel="noopener noreferrer">t.me/meshenii</a></li>
           </ul>
-          <p><b>Интересный факт:</b> Я боюсь указателей в C++... но готов встретиться с ними лицом к лицу!</p>
       </div>
     </td>
     <td valign="top" width="55%" align="center"> <!-- Ширина правой колонки -->
