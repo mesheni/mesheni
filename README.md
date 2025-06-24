@@ -32,7 +32,7 @@
     <td valign="top" width="55%" align="center"> <!-- Ширина правой колонки -->
       <!-- Основная статистика GitHub Metrics -->
       <a href="https://github.com/lowlighter/metrics"> <!-- Опционально: ссылка на репозиторий lowlighter/metrics -->
-         <img src="./metrics.base.svg" alt="Мои GitHub Metrics" width="100%"/> <!-- Изображение займет всю ширину ячейки -->
+         <img src="./metrics.base.svg" alt="Мои GitHub Metrics" width="650"/> <!-- Изображение займет всю ширину ячейки -->
       </a>
     </td>
   </tr>
